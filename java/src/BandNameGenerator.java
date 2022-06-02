@@ -24,3 +24,8 @@ public class BandNameGenerator {
 //#   https://replit.com/@appbrewery/band-name-generator-end
     }
 }
+/**
+    Failed to create GitHub Repository
+        422 Unprocessable Entity - Repository creation failed.
+        [Repository; description]custom: description control characters are not allowed
+ **/
